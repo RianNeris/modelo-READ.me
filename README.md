@@ -1,22 +1,35 @@
 # WEBJOBS
 
-**Desenvolvemos um site com objetivo de criar novas oportunidades para prestadores de serviço, e para você que precisa de um profissional qualificado te ajudamos a encontrar !**
+Desenvolvemos um site com objetivo de criar novas oportunidades para prestadores de serviço, e para você que precisa de um profissional qualificado te ajudamos a encontrar !
 
 ## 🚀 Com Funciona?
 
-## 🧑‍💼 Cadastre-se como prestador e divulgue seus serviços:
+## 💼 Cadastre-se como prestador e divulgue seus serviços:
+
+
 
 * **Primeiro clique em Entrar**
 
+
 ![home](https://user-images.githubusercontent.com/86022706/206331320-1bc3501f-3008-40c8-a394-5e88ed9239d6.png)
+
+
 
 * **Em seguida, abaixo da caixa de senha clique em Clique aqui para se cadastrar !**
 
+
+
 ![cadastrar](https://user-images.githubusercontent.com/86022706/206331925-effde112-0f55-4143-bc38-25b25b5c2319.png)
+
+
 
 * **Preencha o formulário com seus dados.**
 
+
+
 ![form](https://user-images.githubusercontent.com/86022706/206332518-38ba8ed6-8d6b-4493-b89b-49080feb4e09.png)
+
+
 
 * **Personalize seu perfil para atrair novos clientes !**
 
