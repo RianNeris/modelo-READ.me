@@ -11,7 +11,7 @@ Somos idealistas de uma nova forma de interação entre o prestador de serviço 
 
 ### 👨🏻‍🏫 Orientador
 
-Professor Gerson Martins de Oliveira
+**Professor:** Gerson Martins de Oliveira
 
 ### 📌 Objetivo
 
